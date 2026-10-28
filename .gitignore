@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+node_modules/
+*.docx
+*.png
+_test_*
+.DS_Store
+dist/
+build/
+*.egg-info/
+packaging/mdtool.ico
+*.spec.bak

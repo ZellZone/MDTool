@@ -1,0 +1,8 @@
+customtkinter>=5.2.2
+pillow>=10.0.0
+python-docx>=1.1.0
+requests>=2.31.0
+pywin32>=306
+numpy>=1.26.0
+# OCR（圖片→Mermaid）；Python 3.14 可能只能裝到較舊版
+rapidocr-onnxruntime

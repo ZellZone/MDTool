@@ -1,0 +1,8 @@
+MDTool 使用說明
+=================
+
+1. 請保持整個 MDTool 資料夾完整，直接執行 MDTool.exe。
+2. Mermaid 流程圖需要本機已安裝 Node.js（https://nodejs.org/）。
+3. 若 Windows 提示「Windows 已保護你的電腦」：
+   選「其他資訊」→「仍要執行」。這是未簽章軟體的正常提示，不是病毒。
+4. 建議不要只拷貝 exe，需連同 _internal 與 node_modules 一起複製。
